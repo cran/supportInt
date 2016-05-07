@@ -1,0 +1,16 @@
+9feaa4d8189372b9407d187ed1dd2d72 *DESCRIPTION
+efa2c8682ed1168b0a05f4788e30e45f *NAMESPACE
+28afbec39865e67f93ef4fa8a01d2117 *R/binLikSI.R
+22c02969330f977b40873ec3d0baa849 *R/calibSI.R
+e3610c23057d536899b39daf19634c6e *R/glmLikSI.R
+f4377cf4249d2f711b1f105b34815990 *R/lmLikSI.R
+36432a75b6cb4f49aba0c0fd68fadf5d *R/normLikSI.R
+112f490559d0cea06804400a122d3a73 *R/poisLikSI.R
+f9c7cfe160c4be5b5ee3f40ff206233e *build/partial.rdb
+c08d28d3e475e71777110f5ab7374ea2 *man/binLikSI.Rd
+3bbb9afb8ea2df05463d70939cbfcff7 *man/calibSI.Rd
+9db129370b0d73ba1d49c42a5b65555a *man/glmLikSI.Rd
+81775f835d45760924182fe67b02d389 *man/lmLikSI.Rd
+d9b9a48637f8ec2712cb254b627f477a *man/normLikSI.Rd
+bbecf991d6e958b68ecf2c2b7323dbcb *man/poisLikSI.Rd
+6e5c19b20fedafe9cfa39ac05da68314 *man/supportInt-package.Rd
