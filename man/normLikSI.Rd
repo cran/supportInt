@@ -8,7 +8,7 @@ Normal support interval calculation.
 This function calculates support intervals for the mean of normal data. Confidence levels are calculate from the formula if conf=T.
 }
 \usage{
-normLikSI(dat, level, tol = 0.001, conf = F)
+normLikSI(dat, level, tol = 0.001, conf = F, B=500)
 }
 %- maybe also 'usage' for other objects documented here.
 \arguments{
@@ -23,6 +23,9 @@ tolerance passed to uniroot for finding likelihood endpoints
 }
   \item{conf}{
 Logical, whether or not confidence levels should be returned.
+}
+ \item{B}{
+Number of bootstrap iterations to verify coverage level
 }
 }
 

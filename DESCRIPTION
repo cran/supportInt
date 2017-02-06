@@ -1,8 +1,8 @@
 Package: supportInt
 Type: Package
 Title: Calculates Likelihood Support Intervals for Common Data Types
-Version: 1.0
-Date: 2016-05-04
+Version: 1.1
+Date: 2017-02-06
 Author: Derek Smith
 Maintainer: Derek Smith <derek.smith@vanderbilt.edu>
 Description: Calculates likelihood based support intervals for
@@ -14,8 +14,8 @@ Description: Calculates likelihood based support intervals for
     the function returns profile likelihoods for each coefficient in the model.
 Imports: ProfileLikelihood, splines
 License: GPL-2
-RoxygenNote: 5.0.1
+RoxygenNote: 6.0.0
 NeedsCompilation: no
-Packaged: 2016-05-06 00:00:44 UTC; Derek
+Packaged: 2017-02-06 17:39:23 UTC; Derek
 Repository: CRAN
-Date/Publication: 2016-05-07 01:12:29
+Date/Publication: 2017-02-06 21:25:52
